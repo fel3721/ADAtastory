@@ -11,7 +11,7 @@ Having a look at the time evolution of the quotes per party, it appears that Dem
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-![Image](https://github.com/fel3721/ADAtastory/DR_year)
+![Image](https://github.com/fel3721/ADAtastory/DR_year.png)
 ```markdown
 Syntax highlighted code block
 
