@@ -1,13 +1,17 @@
-## Welcome to GitHub Pages
+## Republicans vs Democrats
 
-You can use the [editor on GitHub](https://github.com/fel3721/ADAtastory/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You surely know that two parties dominate the electoral system in the United States of America. The blue versus the red, the donkey versus the elephant, Republicans versus Democrats. Both parties have clear positions on major issues such as immigration, climate change, gun policies and healthcare. Throughout this data story, the goal is to analyse to what extent is this ideological split seen in the quotes related by Quotebank. Note that only quotes of politicians that were part of the Congress from 2016 to 2020 were selected.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To begin, let's have a look at the differences in the geographical repartitions.
+
+-- Carte --
+
+Having a look at the time evolution of the quotes per party, it appears that Democrats of the Congress had more voice in newspapers than Republicans in 2019, indicating a change in the trend compared to the years 2016, 2017 and 2018.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+![Image](src)
 ```markdown
 Syntax highlighted code block
 
@@ -23,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://github.com/fel3721/ADAtastory/DR_year)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
